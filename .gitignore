@@ -1,0 +1,17 @@
+# logs
+*.log
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# idea files
+.idea/
